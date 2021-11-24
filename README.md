@@ -54,6 +54,8 @@ Users should be able to:
 
 I have learned how to muniplate the layout according to the device view.
 
+```
+
 /* ---------- Media Query ------------- */
 @media only screen and (max-width: 992px) {
   .testimonials {
@@ -74,6 +76,7 @@ I have learned how to muniplate the layout according to the device view.
   }
 }
 
+```
 
 ## Author
 
