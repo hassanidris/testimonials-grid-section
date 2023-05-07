@@ -98,6 +98,7 @@ section {
   display: flex;
   justify-content: center;
   align-items: center;
+  min-height: 100vh;
 }
 
 .container {
@@ -273,6 +274,4 @@ section {
     grid-template-columns: repeat(1, 1fr);
     grid-template-areas: "moderateViolet" "darkGrayishBlue" "white-a" "darkBlackishBlue" "white-b";
   }
-}
-
-/*# sourceMappingURL=style.css.map */
+}/*# sourceMappingURL=style.css.map */
